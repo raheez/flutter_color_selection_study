@@ -4,7 +4,7 @@ import 'package:flutter_color_selection/screens/home.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
-  static String routeName = '/Splash';
+  static String routeName = '/splash';
 
   @override
   State<SplashScreen> createState() => _SplashScreenState();
